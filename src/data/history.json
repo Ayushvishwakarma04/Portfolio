@@ -1,0 +1,20 @@
+
+[
+    {
+      "role": "Content Writer",
+      "organisation": "GeeksForGeeks VITB",
+      "startDate": "Dec, 2022",
+      "endDate": "Present",
+      "experiences": ["Written 10+ informative articles", "Collaborated closely with the team at various chapter events"],
+      "imageSrc": "history/gfg.png"
+    },
+    {
+      "role": "Open Source Contributor",
+      "organisation": "Gssoc",
+      "startDate": "May, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on multiple GitHub repositories using web technologies.", "Improved performance and user interaction by 20%"],
+      "imageSrc": "history/GSSoC.png"
+    }
+  ]
+  

@@ -1,0 +1,93 @@
+/* Importing variables for colors and other styles */
+@import "../../vars.css";
+
+.container {
+    margin-top: 76px;
+    color: var(--color-text);
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: var(--font-roboto),Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    padding-bottom: 38px;
+}
+
+.scroller {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+
+.scrollerInner {
+  display: flex;
+  animation: scroll 60s linear infinite; /* Adjust animation duration and timing function as needed */
+}
+
+.card {
+  flex: 0 0 auto;
+  width: 350px;
+  min-height: 345px;
+  margin-right: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: var(--color-dark);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.certificateImage {
+  width: auto;
+  height: 175px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.cardDetails {
+  text-align: center;
+}
+
+.certificateName {
+  font-size: 18px;
+  margin: 10px 0 5px 0;
+  color: var(--color-primary);
+}
+
+.issuedBy,
+.issueDate {
+  margin: 5px 0;
+  font-size: 14px;
+  color: var(--color-text);
+}
+
+.link {
+  color: var(--color-text);
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  margin-top: 10px;
+  transition: 0.3s;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: lightgreen;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

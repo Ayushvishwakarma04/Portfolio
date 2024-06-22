@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Steganography",
+      "imageSrc": "projects/steg.png",
+      "description": "This project hides secret messages in images using LSB substitution, ensuring image quality remains unchanged.",
+      "skills": ["HTML", "CSS", "ES6 JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ayushvishwakarma04/Steganography"
+    },
+    {
+      "title": "PassGen",
+      "imageSrc": "projects/password.png",
+      "description": "This project generates secure passwords with customizable constraints, stores them securely, and evaluates their strength.",
+      "skills": ["HTML", "CSS", "ES6 JS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Newsletter",
+      "imageSrc": "projects/news.png",
+      "description": "This project simplifies newsletter signup with a user-friendly interface and a backend powered by an API as the database.",
+      "skills": ["HTML", "CSS","ES6 JS", "Node","Express","API"],
+      "demo": "https://boiling-fortress-23885-770bdd6c003a.herokuapp.com/",
+      "source": "https://github.com/Ayushvishwakarma04/Newsletter_Webapp"
+    }
+  ]

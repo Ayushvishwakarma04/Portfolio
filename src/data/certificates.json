@@ -1,0 +1,51 @@
+[
+    {
+        "certificateName": "HackOn with Amazon",
+        "issuedBy": "Unstop",
+        "issueDate": "June, 2024",
+        "link": "https://unstop.com/certificate-preview/f8f259bb-2b77-459a-ba49-bb2e34951737?utm_campaign=site-emails",
+        "imageSrc": "certificates/Amazon.png"
+    },
+    {
+        "certificateName": "The Bits and Bytes of Networking",
+        "issuedBy": "Google",
+        "issueDate": "Dec, 2023",
+        "link": "https://coursera.org/verify/RHQ57CP5G33F",
+        "imageSrc": "certificates/Google.png"
+    },
+    {
+        "certificateName": "Matlab Onramp",
+        "issuedBy": "MathWorks",
+        "issueDate": "Sep, 2022",
+        "link": "https://drive.google.com/file/d/130ClUXJsW8ts52oiWmDJQKaCpao3MAj6/view?usp=sharing",
+        "imageSrc": "certificates/Matlab.png"
+    },
+    {
+        "certificateName": "Simulink Onramp",
+        "issuedBy": "MathWorks",
+        "issueDate": "Sep, 2022",
+        "link": "https://drive.google.com/file/d/1xCdKQ81m9GimPZNxOBeXju69_MQvrmz9/view?usp=sharing",
+        "imageSrc": "certificates/Matlabsimulink.png"
+    },
+    {
+        "certificateName": "Supervised Machine Learning",
+        "issuedBy": "Stanford",
+        "issueDate": "June, 2024",
+        "link": "https://coursera.org/verify/3BUVAHV3N5BN",
+        "imageSrc": "certificates/ML.png"
+    },
+    {
+        "certificateName": "Prioritizing Your Tasks",
+        "issuedBy": "Stanford",
+        "issueDate": "Oct, 2022",
+        "link": "https://drive.google.com/file/d/1xIk1kyjpk0dyhnpnhvkWeiv8VsNEQZpz/view?usp=sharing",
+        "imageSrc": "certificates/task.png"
+    },
+    {
+        "certificateName": "Know Your Click",
+        "issuedBy": "The Cyber Delta",
+        "issueDate": "Oct, 2022",
+        "link": "https://drive.google.com/file/d/14NOmMB2WlmNIoj_uqgeS5yjWcoNrpCVT/view?usp=sharing",
+        "imageSrc": "certificates/Unhacked.jpg"
+    }
+]
